@@ -1,0 +1,5 @@
+SGSPack v0.0.3
+	-Added Mekanism Tools and Mekanism Generators mods to fix issues with Mekanism
+	-Added Morpheus, which allows 50% of players to sleep to change the time of day, rather than the default 100%
+SGSPack v0.0.2
+	-Added core mods and libraries to get the main mods running poperly without crashes
