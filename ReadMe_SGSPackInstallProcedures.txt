@@ -1,4 +1,4 @@
-Thank you for using the SGSPack v0.0.2 for Minecraft 1.12.2!
+Thank you for using the SGSPack v0.0.3 for Minecraft 1.12.2!
 	Created by: Taylor Hancock
 	Mod list compiled by: Grant Tucker
 	Mod list crowd sourced from: Taylor Hancock, Yang Husurianto, Joel Johnson, Grant Tucker, Ben Wise
